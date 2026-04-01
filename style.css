@@ -74,6 +74,13 @@ main {
     border-radius: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.clink {
+    text-decoration: none;
+    color: rgb(91, 221, 244);
+}
+.clink:hover {
+    color: white;
+}
 h2 {
     font-family: "Century Gothic", Helvetica, sans-serif;
 }
